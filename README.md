@@ -1,10 +1,15 @@
+<div>
+  
+  
+ </div>
+
 - 👋 Hi, I’m @catheali
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&theme=buefy&count_private=true)](https://github.com/catheali/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&theme=buefy&count_private=true)]
 
 ##
 <!---
