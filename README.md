@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&theme=panda)](https://github.com/catheali/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&theme=buefy)](https://github.com/catheali/github-readme-stats)
 
 ##
 <!---
