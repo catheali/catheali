@@ -7,7 +7,7 @@
  </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&theme=buefy&count_private=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catheali&layout=compact&theme=buefy)]
 
 ##
 ![Snake animation](https://github.com/catheali/catheali/blob/output/github-contribution-grid-snake.svg)
