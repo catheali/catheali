@@ -5,9 +5,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  
  </div>
-<div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&theme=buefy&count_private=true)
 
-</div>
+
 ##
 ![Snake animation](https://github.com/catheali/catheali/blob/output/github-contribution-grid-snake.svg)
