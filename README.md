@@ -4,9 +4,6 @@
 <img width="200px" src="https://i.gifer.com/origin/3/9/39b4d9412ea962754977c0a9c63cda34.gif"> 
 <img src="https://thumbs.gfycat.com/CircularGrossAfri;canpiedkingfisher-max-1mb.gif">
 </div>
-
-
-
 <div align="center">  
  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&count_private=true&hide_border=false&theme=buefy" alt="Alicia github stats" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catheali&layout=compact&hide_border=false&theme=buefy" />
@@ -16,4 +13,4 @@
 <img src="https://github.com/catheali/catheali/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-
+<a src='https://myoctocat.com/build-your-octocat/'> link </a>
