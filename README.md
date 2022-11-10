@@ -13,4 +13,4 @@
 <img src="https://github.com/catheali/catheali/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-<a src='https://myoctocat.com/build-your-octocat/'> link </a>
+<a src='https://myoctocat.com/build-your-octocat/' 'https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github'> link </a>
