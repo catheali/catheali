@@ -11,7 +11,7 @@
 
 <div>
 <a href="https://instagram.com/ali.snull" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </div>
 <div align="center">  
@@ -24,7 +24,7 @@
 </div>
 
 
-
+✓
 
 <a src='https://myoctocat.com/build-your-octocat/'>
 <a src='https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github'>
