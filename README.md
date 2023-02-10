@@ -14,11 +14,12 @@
  
 <div>
 <a href="https://instagram.com/ali.snull" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   ![image](https://user-images.githubusercontent.com/108311763/218095425-39d0677b-7cd9-4053-81be-eab889645017.png)
+
 </div>
 </div>
 <div align="center">  
- <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&count_private=true&hide_border=false&theme=buefy" alt="Alicia github stats" /> 
+ <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&count_private=true&hide_border=false&theme=buefy" alt="Alicia github stats" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catheali&layout=compact&hide_border=false&theme=buefy" />
 </div>
 <hr>
