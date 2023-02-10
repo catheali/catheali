@@ -14,8 +14,7 @@
  
 <div>
 <a href="https://instagram.com/ali.snull" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   ![image](https://user-images.githubusercontent.com/108311763/218095425-39d0677b-7cd9-4053-81be-eab889645017.png)
-
+<a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 </div>
 <div align="center">  
