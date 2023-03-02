@@ -17,17 +17,19 @@
 <a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 </div>
+
 <div align="center">  
- <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&count_private=true&hide_border=false&theme=buefy" alt="Alicia github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catheali&layout=compact&hide_border=false&theme=buefy" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catheali&show_icons=true&count_private=true&hide_border=false&theme=buefy" alt="Alicia github stats" /> 
+  <img width="31%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catheali&layout=compact&hide_border=false&theme=buefy" />
+
 </div>
+
 <hr>
+
 <div align="center">
 <img src="https://github.com/catheali/catheali/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-
-✓
 
 <a src='https://myoctocat.com/build-your-octocat/'>
 <a src='https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github'>
