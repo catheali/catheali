@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="200px" src="https://i.gifer.com/origin/3/9/39b4d9412ea962754977c0a9c63cda34.gif"> 
+ ![https://tenor.com/9i9X.gif](https://media.tenor.com/LfZjYwz8Eo8AAAAi/heart-love.gif)
 
 <img src="https://thumbs.gfycat.com/CircularGrossAfri;canpiedkingfisher-max-1mb.gif">
 
@@ -15,6 +15,7 @@
 <div>
 <a href="https://instagram.com/ali.snull" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ 
 </div>
 </div>
 
@@ -30,7 +31,4 @@
 <img src="https://github.com/catheali/catheali/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-
-<a src='https://myoctocat.com/build-your-octocat/'>
-<a src='https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github'>
 
