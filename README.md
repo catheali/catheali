@@ -4,6 +4,7 @@
  <h3> ✨ Sobre mim: </h3>
 
   📗 Ultimamente estou estudando: 
+  Typescript 💙
   Python 🐍 
   VUE 🫐 
   frontend Magento 🛍️ <br>
