@@ -34,9 +34,9 @@
   <a href="" target="_blank"><img src=""></a>  -->
 </div>
  
- > "Minha interessância está além da sua curiosidade" 
+ > "MAKTUB" 
 
-  ✨1111✨
+  ✨777✨
 </div>
 
 
