@@ -38,8 +38,9 @@
 ![Vue](https://img.shields.io/badge/vue-043?style=for-the-badge&logo=vue.js)
 ![Vuetify](https://img.shields.io/badge/vuetify-043?style=for-the-badge&logo=vuetify)
 ![React](https://img.shields.io/badge/react-043?style=for-the-badge&logo=react)
-![next](https://img.shields.io/badge/next-043?style=for-the-badge&logo=next.js)
-![swift](https://img.shields.io/badge/swift-043?style=for-the-badge&logo=swift)
+
+<!---![next](https://img.shields.io/badge/next-043?style=for-the-badge&logo=next.js)
+![swift](https://img.shields.io/badge/swift-043?style=for-the-badge&logo=swift)--->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=catheali&theme=vue&background=043&border=041&dates=fff)](https://git.io/streak-stats)
  
