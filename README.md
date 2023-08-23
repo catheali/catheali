@@ -27,8 +27,8 @@
 
 ![Php](https://img.shields.io/badge/Php-043?style=for-the-badge&logo=php)
 ![Js](https://img.shields.io/badge/js-043?style=for-the-badge&logo=javascript)
-![python](https://img.shields.io/badge/python-043?style=for-the-badge&logo=python)
 ![Typescript](https://img.shields.io/badge/ts-043?style=for-the-badge&logo=typescript)
+![python](https://img.shields.io/badge/python-043?style=for-the-badge&logo=python)
 
 
 
