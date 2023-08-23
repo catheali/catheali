@@ -4,17 +4,21 @@
  
  </div>
 
+<div align="center">   
+
 ## ✨ Sobre mim:  
+
+<div align="left">
+
+ - Meu primeiro contato com HTML/CSS foi em 2011 no [Tumblr](https://morango-tango.tumblr.com/).
+ - Gosto de aprender novos idiomas no meu tempo livre e amo coisas verdes 🍀 🐸 
  #### - Ultimamente estou estudando: <br>
  - Swift 🧡 <br>
  - Frontend Magento 🛍️ <br>
- - Gosto de aprender novos idiomas no meu tempo livre e amo coisas verdes 🍀 🐸 
- <br>
-<div align="center">   
+ 
+</div>
 
 ## Stacks: :sparkles:
-
-
 
 ![html](https://img.shields.io/badge/html-043?style=for-the-badge&&logo=html5)
 ![css](https://img.shields.io/badge/css-043?style=for-the-badge&logo=css3)
