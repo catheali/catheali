@@ -18,7 +18,7 @@
  
 </div>
 
-## Stacks: :sparkles:
+## Stacks✨ :
 
 ![html](https://img.shields.io/badge/html-043?style=for-the-badge&&logo=html5)
 ![css](https://img.shields.io/badge/css-043?style=for-the-badge&logo=css3)
