@@ -1,5 +1,5 @@
 <div align="center"> 
- <h1>Olá! tudo bem? Eu sou a Alicia 🐸</h1>
+ <h1>Hello! How are you? I'm Alicia 🐸</h1>
  
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c7kfxt48cspaphqxjbbjcnqdk&cover_image=true&theme=novatorem&show_offline=true&background_color=008000&interchange=true&bar_color=9bd198&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=c7kfxt48cspaphqxjbbjcnqdk&redirect=true)
  
@@ -9,13 +9,13 @@
 
 <div align="center">   
 
-## ✨ Sobre mim:  
+## ✨ About me: 
 
 <div align="left">
 
- - Meu primeiro contato com HTML/CSS foi em 2011 no [Tumblr](https://morango-tango.tumblr.com/).
- - Gosto de aprender novos idiomas no meu tempo livre e amo coisas verdes 🍀 🐸 
- #### - Ultimamente estou estudando: <br>
+ - My first contact with HTML/CSS was in 2011 on [Tumblr](https://morango-tango.tumblr.com/).
+ - I like to learn new languages in my free time and I love green things 🍀 🐸 
+ #### - Currently studying: <br>
  - Frontend Magento 🛍️ <br>
  
 </div>
@@ -42,15 +42,16 @@
 ![swift](https://img.shields.io/badge/swift-043?style=for-the-badge&logo=swift)--->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=catheali&theme=vue&background=043&border=041&dates=fff)](https://git.io/streak-stats)
- 
-<hr>
 
-<div>
- <h3> Minhas redes sociais:  </h3>
+
+
+ 
+ ## 🌐 Social Media: 
+ 
 <!---<a href="https://instagram.com/ali.snull" target="_blank"><img src="https://piskel-imgstore-b.appspot.com/img/351d658c-06f2-11ee-8d0b-499722071048.gif" target="_blank"></a>--->
 <a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://piskel-imgstore-b.appspot.com/img/f53416c2-06f0-11ee-af8d-499722071048.gif" target="_blank"></a>  
 
-</div>
+
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=catheali&color=27703c)
 
