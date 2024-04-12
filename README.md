@@ -37,7 +37,7 @@
 ![Vue](https://img.shields.io/badge/vue-043?style=for-the-badge&logo=vue.js)
 ![Vuetify](https://img.shields.io/badge/vuetify-043?style=for-the-badge&logo=vuetify)
 ![React](https://img.shields.io/badge/react-043?style=for-the-badge&logo=react)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1587e725-6207-4a4e-a2d2-b3515f11f469/deploy-status)](https://app.netlify.com/sites/laguna-catheali/deploys)
 <!---![next](https://img.shields.io/badge/next-043?style=for-the-badge&logo=next.js)
 ![swift](https://img.shields.io/badge/swift-043?style=for-the-badge&logo=swift)--->
 
