@@ -32,7 +32,7 @@
  
 <!---<a href="https://instagram.com/ali.snull" target="_blank"><img src="https://piskel-imgstore-b.appspot.com/img/351d658c-06f2-11ee-8d0b-499722071048.gif" target="_blank"></a>--->
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c7kfxt48cspaphqxjbbjcnqdk&cover_image=true&theme=novatorem&show_offline=true&background_color=008000&interchange=true&bar_color=9bd198&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=c7kfxt48cspaphqxjbbjcnqdk&redirect=true)
+ <!----[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c7kfxt48cspaphqxjbbjcnqdk&cover_image=true&theme=novatorem&show_offline=true&background_color=008000&interchange=true&bar_color=9bd198&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=c7kfxt48cspaphqxjbbjcnqdk&redirect=true)---->
 ![ProfileViews](https://komarev.com/ghpvc/?username=catheali&color=27703c)
 
 <br>
