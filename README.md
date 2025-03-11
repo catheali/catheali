@@ -1,14 +1,10 @@
 <div align="center"> 
- <h1>🐸</h1>
- 
- <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=22&duration=4000&color=77657d&background=FF000000&center=true&lines=👽+front-end+developer+!+👾" width="300px"> 
-<a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://piskel-imgstore-b.appspot.com/img/f53416c2-06f0-11ee-af8d-499722071048.gif" target="_blank"></a>  
- 
- </div>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGwGSS7Qq0IBA/profile-displaybackgroundimage-shrink_350_1400/B4DZWHWn21GkAc-/0/1741732609925?e=1747267200&v=beta&t=8RT_-dewAz-dlb-quRm4PyrTJ9Q3KULkHLZOWLvnxbo">
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=22&duration=4000&color=77657d&background=FF000000&center=true&lines=👽+front-end+developer+!+👾" width="300px"> 
+</div>
 
 <div align="center">   
 
- 
 ![html](https://img.shields.io/badge/html-043?style=for-the-badge&&logo=html5)
 ![css](https://img.shields.io/badge/css-043?style=for-the-badge&logo=css3)
 ![Php](https://img.shields.io/badge/Php-043?style=for-the-badge&logo=php)
@@ -25,9 +21,11 @@
 <!---![next](https://img.shields.io/badge/next-043?style=for-the-badge&logo=next.js)
 ![swift](https://img.shields.io/badge/swift-043?style=for-the-badge&logo=swift)--->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=catheali&theme=vue&background=043&border=041&dates=fff)](https://git.io/streak-stats)
+<!---![![GitHub Streak](https://streak-stats.demolab.com/?user=catheali&theme=vue&background=043&border=041&dates=fff)](https://git.io/streak-stats)--->
 
  ![Github](https://github-readme-stats.vercel.app/api/top-langs?username=catheali&show_icons=true&layout=compact&theme=transparent)
+
+ <a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://piskel-imgstore-b.appspot.com/img/f53416c2-06f0-11ee-af8d-499722071048.gif" target="_blank"></a> 
 
  
 <!---<a href="https://instagram.com/ali.snull" target="_blank"><img src="https://piskel-imgstore-b.appspot.com/img/351d658c-06f2-11ee-8d0b-499722071048.gif" target="_blank"></a>--->
