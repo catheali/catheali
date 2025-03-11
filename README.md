@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGwGSS7Qq0IBA/profile-displaybackgroundimage-shrink_350_1400/B4DZWHWn21GkAc-/0/1741732609925?e=1747267200&v=beta&t=8RT_-dewAz-dlb-quRm4PyrTJ9Q3KULkHLZOWLvnxbo">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEGUZpxUcd61A/profile-displaybackgroundimage-shrink_350_1400/B4DZWHiJxiHkAY-/0/1741735632372?e=1747267200&v=beta&t=4ioEWYJKB69ZYBAHTRYbm9Vy8HK15PLKFp9uyeNCwvs">
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=22&duration=4000&color=77657d&background=FF000000&center=true&lines=👽+front-end+developer+!+👾" width="300px"> 
 </div>
 
