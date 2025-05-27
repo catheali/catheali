@@ -25,9 +25,8 @@
 
 <!---![![GitHub Streak](https://streak-stats.demolab.com/?user=catheali&theme=vue&background=043&border=041&dates=fff)](https://git.io/streak-stats)--->
 
- ![Github](https://github-readme-stats.vercel.app/api/top-langs?username=catheali&show_icons=true&layout=compact&theme=dark)
-
- <a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://piskel-imgstore-b.appspot.com/img/f53416c2-06f0-11ee-af8d-499722071048.gif" target="_blank"></a> 
+  <!---![Github](https://github-readme-stats.vercel.app/api/top-langs?username=catheali&show_icons=true&layout=compact&theme=dark)--->
+ <!---<a href="https://www.linkedin.com/in/alicia-alencar" target="_blank"><img src="https://piskel-imgstore-b.appspot.com/img/f53416c2-06f0-11ee-af8d-499722071048.gif" target="_blank"></a>--->
 
  
 <!---<a href="https://instagram.com/ali.snull" target="_blank"><img src="https://piskel-imgstore-b.appspot.com/img/351d658c-06f2-11ee-8d0b-499722071048.gif" target="_blank"></a>--->
