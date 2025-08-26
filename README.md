@@ -11,6 +11,7 @@
 ![Js](https://img.shields.io/badge/js-043?style=for-the-badge&logo=javascript&color=black&logoColor=red)
 ![Typescript](https://img.shields.io/badge/ts-043?style=for-the-badge&logo=typescript&color=black&logoColor=red)
 ![jquery](https://img.shields.io/badge/jquery-043?style=for-the-badge&logo=jquery&color=black&logoColor=red)
+![Angular](https://img.shields.io/badge/angular-043?style=for-the-badge&logo=angular&color=black&logoColor=red)
 
 ![Magento](https://img.shields.io/badge/magento-043?style=for-the-badge&logo=magento&color=black&logoColor=red)
 ![laravel](https://img.shields.io/badge/laravel-043?style=for-the-badge&logo=laravel&color=black&logoColor=red)
