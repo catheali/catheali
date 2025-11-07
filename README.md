@@ -4,21 +4,21 @@
 </div>
 <div align="center">   
 
-![html](https://img.shields.io/badge/html-043?style=for-the-badge&logo=html5&color=white&logoColor=green)
-![css](https://img.shields.io/badge/css-043?style=for-the-badge&logo=css3&color=white&logoColor=green)
-![Php](https://img.shields.io/badge/Php-043?style=for-the-badge&logo=php&color=white&logoColor=green)
-![Js](https://img.shields.io/badge/js-043?style=for-the-badge&logo=javascript&color=white&logoColor=green)
-![Typescript](https://img.shields.io/badge/ts-043?style=for-the-badge&logo=typescript&&color=white&logoColor=green)
-![jquery](https://img.shields.io/badge/jquery-043?style=for-the-badge&logo=jquery&&color=white&logoColor=green)
-![Angular](https://img.shields.io/badge/angular-043?style=for-the-badge&logo=angular&&color=white&logoColor=green)
+![html](https://img.shields.io/badge/html-043?style=for-the-badge&logo=html5&color=white&logoColor=#83060a)
+![css](https://img.shields.io/badge/css-043?style=for-the-badge&logo=css3&color=white&logoColor=#83060a)
+![Php](https://img.shields.io/badge/Php-043?style=for-the-badge&logo=php&color=white&logoColor=#83060a)
+![Js](https://img.shields.io/badge/js-043?style=for-the-badge&logo=javascript&color=white&logoColor=#83060a)
+![Typescript](https://img.shields.io/badge/ts-043?style=for-the-badge&logo=typescript&&color=white&logoColor=#83060a)
+![jquery](https://img.shields.io/badge/jquery-043?style=for-the-badge&logo=jquery&&color=white&logoColor=#83060a)
+![Angular](https://img.shields.io/badge/angular-043?style=for-the-badge&logo=angular&&color=white&logoColor=#83060a)
 
-![Magento](https://img.shields.io/badge/magento-043?style=for-the-badge&logo=magento&&color=white&logoColor=green)
-![laravel](https://img.shields.io/badge/laravel-043?style=for-the-badge&logo=laravel&&color=white&logoColor=green)
-![Vue](https://img.shields.io/badge/vue-043?style=for-the-badge&logo=vue.js&&color=white&logoColor=green)
-![Vuetify](https://img.shields.io/badge/vuetify-043?style=for-the-badge&logo=vuetify&&color=white&logoColor=green)
-![Vitest](https://img.shields.io/badge/vitest-043?style=for-the-badge&logo=vitest&&color=white&logoColor=green)
-![React](https://img.shields.io/badge/react-043?style=for-the-badge&logo=react&&color=white&logoColor=green)
-![Jest](https://img.shields.io/badge/jest-043?style=for-the-badge&logo=jest&&color=white&logoColor=green)
+![Magento](https://img.shields.io/badge/magento-043?style=for-the-badge&logo=magento&&color=white&logoColor=#83060a)
+![laravel](https://img.shields.io/badge/laravel-043?style=for-the-badge&logo=laravel&&color=white&logoColor=#83060a)
+![Vue](https://img.shields.io/badge/vue-043?style=for-the-badge&logo=vue.js&&color=white&logoColor=#83060a)
+![Vuetify](https://img.shields.io/badge/vuetify-043?style=for-the-badge&logo=vuetify&&color=white&logoColor=#83060a)
+![Vitest](https://img.shields.io/badge/vitest-043?style=for-the-badge&logo=vitest&&color=white&logoColor=#83060a)
+![React](https://img.shields.io/badge/react-043?style=for-the-badge&logo=react&&color=white&logoColor=#83060a)
+![Jest](https://img.shields.io/badge/jest-043?style=for-the-badge&logo=jest&&color=white&logoColor=#83060a)
 
 <!---![next](https://img.shields.io/badge/next-043?style=for-the-badge&logo=next.js)
 ![swift](https://img.shields.io/badge/swift-043?style=for-the-badge&logo=swift)--->
